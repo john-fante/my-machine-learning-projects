@@ -1,6 +1,10 @@
 # Gamma/Hadron Separation w/XGBoost, LightGBM, SVM
 
-<span style ="color:red;">The main goal of the project is to distinguish gamma-ray events from hadronic background events in order to identify and study celestial gamma-ray sources accurately.</span>
+<b> Project Goal : The main goal of the project is to distinguish gamma-ray events from hadronic background events in order to identify and study celestial gamma-ray sources accurately.
+
+kaggle -> https://www.kaggle.com/code/banddaniel/gamma-hadron-separation-w-xgb-lgbm-svm
+</b>
+
 
 
 ## ❗My idea
