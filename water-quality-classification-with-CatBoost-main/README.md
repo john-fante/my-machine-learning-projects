@@ -1,5 +1,7 @@
 # Water Quality Classification w/CatBoost
 
+<b> kaggle link -> https://www.kaggle.com/code/banddaniel/groundwater-quality-classification-w-catboost </b>
+
 <b>The dataset is very unbalanced. </b> For example, C3S4 and C3S4 classes have only one sample. This situation is not good in respect of  using the oversampling methods. <br>
 
 I tried to create a new class (called the other) by combining other classes which have a small sample size.
