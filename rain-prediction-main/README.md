@@ -1,6 +1,7 @@
 # Bangladesh Rain Prediction (CatBoost, Conformal Prediction, F1 Score:0.84)
 
 original data -> http://data.gov.bd/dataset/live-weather-condition
+<b> kaggle link -> https://www.kaggle.com/code/banddaniel/rain-pred-catboost-conformal-prediction-f1-0-84 </b>
 
 It is an overt fact that the <b>Rainfall</b> feature is very highly correlated with the target variable in respect of Mutual Information score and Point-BiSerial Coefficient. This situation can give rise to an overfitting problem. For example, I used  the Rainfall feature in training, model metrics quickly increased and to be 100 % in my trial with a CatBoostModel. This problem in machine learning is the target leakage [1,2]. This is why I dropped the <b>Rainfall</b> feature.
 
