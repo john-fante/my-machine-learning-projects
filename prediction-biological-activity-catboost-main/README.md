@@ -9,7 +9,9 @@
 - Matthews Correlation Coefficient(MCC) : 0.8257228
 - Test Accuracy score : 92.857%
 - Confusion matrix: <br>
-![download (4)](https://github.com/john-fante/prediction-biological-activity-catboost/assets/50263592/cb727b8a-f587-4e5f-b49f-760d23231cc2)
+
+![259504632-cb727b8a-f587-4e5f-b49f-760d23231cc2](https://github.com/john-fante/my-machine-learning-projects/assets/50263592/3ce7fd72-b376-457a-802e-6c272681a48a)
+
 
 
 # References
