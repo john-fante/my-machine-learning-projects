@@ -1,5 +1,7 @@
 # Pistachio Classification w/CatBoost
 
+<b> kaggle link -> https://www.kaggle.com/code/banddaniel/pistachio-classification-w-catboost </b>
+
 I used a CatBoostClassifier without tuning.<br>
 
 ## Classification Report 
@@ -18,9 +20,9 @@ I used a CatBoostClassifier without tuning.<br>
 ## Confusion Matrix
 <br>
 
-![__results___16_1](https://github.com/john-fante/pistachio-classification-catboost/assets/50263592/5f51d818-89ab-4df2-8dde-0e91b09aa941)
+![261811517-5f51d818-89ab-4df2-8dde-0e91b09aa941](https://github.com/john-fante/my-machine-learning-projects/assets/50263592/30ff84dc-f40a-4b94-b699-954c738df274)
 
 ## ROC AUC Curve
 <br>
 
-![__results___17_1](https://github.com/john-fante/pistachio-classification-catboost/assets/50263592/661448ed-eedb-4b4d-9fe9-75c5cedc44e1)
+![261811549-661448ed-eedb-4b4d-9fe9-75c5cedc44e1](https://github.com/john-fante/my-machine-learning-projects/assets/50263592/e69f9146-ffa9-4885-b248-554f4d9ce236)
