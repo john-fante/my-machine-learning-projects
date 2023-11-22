@@ -11,7 +11,8 @@
 
 - Matthews Correlation Coefficient(MCC) : 0.782315
 - Confusion matrix: <br>
-![download (4)](https://github.com/john-fante/clf-aid-689-EphA4-receptor-inhibitors/assets/50263592/b8cdba96-d3c8-478f-bf5b-19e45793141f)
+
+![260308937-b8cdba96-d3c8-478f-bf5b-19e45793141f](https://github.com/john-fante/my-machine-learning-projects/assets/50263592/996b514d-193e-449e-8c3e-562e8a1cf71e)
 
 
 # References
