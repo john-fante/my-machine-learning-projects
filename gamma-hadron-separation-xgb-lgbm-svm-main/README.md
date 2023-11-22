@@ -24,7 +24,7 @@ I used BayesSearchCV for tuning hyperparameters.
 
 <br>
 
-![john-fante-project-github](https://github.com/john-fante/gamma-hadron-separation-xgb-lgbm-svm/assets/50263592/88335814-e32c-4abb-a7ae-96967eb2263c)
+![257043772-88335814-e32c-4abb-a7ae-96967eb2263c](https://github.com/john-fante/my-machine-learning-projects/assets/50263592/db8ea4ec-4b50-42b9-a467-c485cd65eeeb)
 
 
 ## References
