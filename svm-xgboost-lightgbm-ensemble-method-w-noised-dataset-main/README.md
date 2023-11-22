@@ -1,5 +1,8 @@
 # SVM, XGB, LGBM, Ensemble Method w/Noised-Dataset
+
 I tried to deal with the overfitting problem using only the AI-generated training set. 
+
+<b> kaggle link -> https://www.kaggle.com/code/banddaniel/svm-xgb-lgbm-ensemble-method-w-noised-dataset </b>
 
 <br>
 
@@ -22,7 +25,9 @@ Part of this comment;
 ## ❗My idea
 <p>I tried to <b> increase the entropy of images </b> in datasets by adding random noise. Simply put, entropy is a measurement of uncertainty. I wanted to spoil the data with some uncertainty because it may help our model to generalize and yield a sensible accuracy score without overfitting. </p>
 
-![band_daniel_noised_images_graph](https://github.com/john-fante/SVM-XGB-LGBM-Ensemble-Method-w-Noised-Dataset/assets/50263592/fd40fcbb-d4e0-4adb-b00c-c0b14b09a702)
+
+![255747935-fd40fcbb-d4e0-4adb-b00c-c0b14b09a702](https://github.com/john-fante/my-machine-learning-projects/assets/50263592/d954c793-4256-4629-b037-f21d7e40245a)
+
 
 
 <br>
